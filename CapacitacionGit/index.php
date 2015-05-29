@@ -12,8 +12,6 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "hola mundo Git";
-        echo "nueva línea";
-        echo "linea tres";
         ?>
     </body>
 </html>
