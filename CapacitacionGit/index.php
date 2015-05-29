@@ -11,7 +11,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo "hola mundo Git";
+        echo "hola mundo Git, primera rama clonada";
         ?>
     </body>
 </html>
