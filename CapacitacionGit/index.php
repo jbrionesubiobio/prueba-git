@@ -6,12 +6,12 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="ISO-8859-1">
-        <title></title>
+        <title>Capacitaci&oacute;n Git</title>
     </head>
     <body>
         <?php
         // put your code here
+        echo "hola mundo Git";
         ?>
     </body>
 </html>
