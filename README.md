@@ -1,0 +1,2 @@
+# prueba-git
+GitHub capacitación
